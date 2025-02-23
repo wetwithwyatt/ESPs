@@ -2,7 +2,7 @@
 local Settings = {
     Box_Color = Color3.fromRGB(255, 0, 0),
     Box_Thickness = 2,
-    Team_Check = false,
+    Team_Check = true,
     Team_Color = false,
     Autothickness = true
 }
